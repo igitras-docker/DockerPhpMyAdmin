@@ -1,0 +1,2 @@
+# DockerPhpMyAdmin
+PhpMyAdmin Docker Image
